@@ -1,1 +1,1 @@
-# Custom Tracing module for OpenAI Agents SDK tutorial
+# Voice agents module for OpenAI Agents SDK
